@@ -4,6 +4,9 @@ Projet Final de Programmation Web - Système de gestion de bibliothèque en lign
 Description du Projet
 Ce projet est une application web complète de gestion de bibliothèque permettant : - Consultation du catalogue de livres - Recherche en temps réel par titre, auteur, catégorie ou maison d’édition - Lecture de livres en PDF (réservé aux utilisateurs connectés) - Administration complète des livres (CRUD) pour les administrateurs - Authentification sécurisée pour utilisateurs et administrateurs
 
+MEMBRES DU GROUPES
+Pierre Djeson-Noel Edgard-Vilbon Robensky-Alcide Kesnel-Eloge Jampsley
+ 
 Architecture du Projet
 bibliotheque/
 ├── 📁 admin/                    Espace administration
