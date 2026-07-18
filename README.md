@@ -46,7 +46,7 @@ bibliotheque/
 ├── auth.php                     # Gestion authentification (sessions PHP)
 └── README.md                    # Ce fichier
 ________________________________________
-🛠️ Technologies Utilisées
+Technologies Utilisées
 Technologie	Utilisation
 PHP 8+	Backend, sessions, manipulation JSON
 JavaScript (Vanilla)	Requêtes AJAX, recherche temps réel, DOM dynamique
@@ -54,30 +54,30 @@ JSON	Base de données légère (fichiers .json)
 HTML5	Structure sémantique des pages
 CSS3	Design responsive, variables CSS, Grid/Flexbox
 Fetch API	Communication asynchrone avec l’API
-________________________________________
-🚀 Fonctionnalités
-👤 Espace Utilisateur
-•	✅ Consulter le catalogue de livres
-•	✅ Rechercher par titre, auteur, catégorie, édition (temps réel)
-•	✅ Voir les détails d’un livre
-•	✅ Lire les PDF en ligne (lecteur intégré)
-•	✅ S’inscrire / Se connecter
-•	✅ Voir les statistiques (total, disponibles, empruntés)
-🔐 Espace Administrateur
-•	✅ Dashboard avec statistiques en temps réel
-•	✅ Ajouter un nouveau livre (formulaire complet)
-•	✅ Modifier un livre existant
-•	✅ Supprimer un livre (avec confirmation)
-•	✅ Voir tous les livres en tableau
-•	✅ Gérer la disponibilité (Disponible/Emprunté)
-________________________________________
-📋 Prérequis
+
+Fonctionnalités
+Espace Utilisateur
+•	Consulter le catalogue de livres
+•	Rechercher par titre, auteur, catégorie, édition (temps réel)
+•	Voir les détails d’un livre
+•	Lire les PDF en ligne (lecteur intégré)
+•	S’inscrire / Se connecter
+•	Voir les statistiques (total, disponibles, empruntés)
+ Espace Administrateur
+•	Dashboard avec statistiques en temps réel
+•	Ajouter un nouveau livre (formulaire complet)
+•	Modifier un livre existant
+•	Supprimer un livre (avec confirmation)
+•	Voir tous les livres en tableau
+•	Gérer la disponibilité (Disponible/Emprunté)
+
+Prérequis
 •	PHP 7.4+ avec support sessions
 •	Serveur web (Apache, Nginx, ou PHP built-in server)
 •	Navigateur moderne (Chrome, Firefox, Edge, Safari)
 •	Droits d’écriture sur les dossiers data/ et pdf/
-________________________________________
-⚙️ Installation
+
+Installation
 1. Cloner le projet
 git clone https://github.com/votre-org/bibliotheque.git
 cd bibliotheque
@@ -93,8 +93,8 @@ chmod 755 data pdf
 4. Accéder à l’application
 •	Site public : http://localhost:8000/user/
 •	Administration : http://localhost:8000/admin/
-________________________________________
-🔑 Identifiants de Test
+
+Identifiants de Test
 Administrateurs
 Email	Mot de passe
 alice@admin.com	admin123
@@ -106,7 +106,7 @@ Utilisateurs (exemples)
 Email	Mot de passe
 jean@email.com	123456
 marie@email.com	123456
-________________________________________
+
 📁 Structure des Données JSON
 Livre (data/livres.json)
 {
