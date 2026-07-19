@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
+        "annee": 1943,
+        "maison_edition": "Gallimard",
+        "categorie": "Littérature",
+        "disponibilite": "Disponible",
+        "pdf": "le_petit_prince.pdf",
+        "description": "Un conte poétique et philosophique sur l'amitié et la vie.",
+        "nb_pages": 96
+    },
+    {
+        "id": 2,
+        "titre": "1984",
+        "auteur": "George Orwell",
+        "annee": 1949,
+        "maison_edition": "Secker & Warburg",
+        "categorie": "Science-fiction",
+        "disponibilite": "Disponible",
+        "pdf": "1984.pdf",
+        "description": "Un roman dystopique sur un régime totalitaire.",
+        "nb_pages": 328
+    },
+    {
+        "id": 3,
+        "titre": "L'Étranger",
+        "auteur": "Albert Camus",
+        "annee": 1942,
+        "maison_edition": "Gallimard",
+        "categorie": "Philosophie",
+        "disponibilite": "Emprunté",
+        "pdf": "letranger.pdf",
+        "description": "Un roman existentialiste sur l'absurdité de la vie.",
+        "nb_pages": 159
+    },
+    {
+        "id": 4,
+        "titre": "Les Misérables",
+        "auteur": "Victor Hugo",
+        "annee": 1862,
+        "maison_edition": "Hachette",
+        "categorie": "Roman",
+        "disponibilite": "Disponible",
+        "pdf": "les_miserables.pdf",
+        "description": "Une fresque sociale et historique du XIXe siècle.",
+        "nb_pages": 1463
+    },
+    {
+        "id": 5,
+        "titre": "Le Meilleur des Mondes",
+        "auteur": "Aldous Huxley",
+        "annee": 1932,
+        "maison_edition": "Chatto & Windus",
+        "categorie": "Science-fiction",
+        "disponibilite": "Disponible",
+        "pdf": "meilleur_des_mondes.pdf",
+        "description": "Un roman d'anticipation sur une société de consommation.",
+        "nb_pages": 311
+    },
+    {
+        "id": 6,
+        "titre": "Les 10 Hoes noir",
+        "auteur": "Ponpilus",
+        "annee": 2025,
+        "maison_edition": "les papoues",
+        "categorie": "Histoire",
+        "disponibilite": "Disponible",
+        "pdf": "CoursAdmin.pdf",
+        "description": "livre pour lire",
+        "nb_pages": 45
+    },
+    {
+        "id": 7,
+        "titre": "Smith",
+        "auteur": "Vilbon",
+        "annee": 2025,
+        "maison_edition": "Gwotet",
+        "categorie": "Littérature",
+        "disponibilite": "Disponible",
+        "pdf": "seance_prog_web1_JS.pdf",
+        "description": "liv informat pou tout moun ki vle vin pwograme",
+        "nb_pages": 90
+    }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "prenom": "Alice",
+    "nom": "Martin",
+    "email": "alice@admin.com",
+    "mot_passe": "admin123"
+  },
+  {
+    "id": 2,
+    "prenom": "Bob",
+    "nom": "Durand",
+    "email": "bob@admin.com",
+    "mot_passe": "admin123"
+  },
+  {
+    "id": 3,
+    "prenom": "Charlie",
+    "nom": "Lefèvre",
+    "email": "charlie@admin.com",
+    "mot_passe": "admin123"
+  },
+  
+  {
+    "id": 4,
+    "prenom": "Diana",
+    "nom": "Moreau",
+    "email": "diana@admin.com",
+    "mot_passe": "admin123"
+  },
+  {
+    "id": 5,
+    "prenom": "Éric",
+    "nom": "Petit",
+    "email": "eric@admin.com",
+    "mot_passe": "admin123"
+  }
+]
